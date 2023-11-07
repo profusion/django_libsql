@@ -1,0 +1,8 @@
+/.eggs/
+/.idea/
+/.venv/
+/build/
+/dist/
+/test/__pycache__/
+/django_libsql/__pycache__/
+/django_libsql.egg-info/
